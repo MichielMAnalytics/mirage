@@ -129,8 +129,15 @@
             "group": "Configuration",
             "pages": [
               "home/configuration",
-              "home/authentication",
               "home/security"
+            ]
+          },
+          {
+            "group": "Authentication",
+            "pages": [
+              "home/authentication",
+              "home/authentication/aws-secrets-manager",
+              "home/authentication/1password"
             ]
           },
           {
